@@ -40,7 +40,7 @@ function toggle_visibility(id) {
 ----
 ### Tehran Polytechnic: 
 <ul class='twocol' markdown='1'>
-<li> Database Lab (<i style='font-size: 0.8em;'>Course Responsible</i>)</li>
+<li> Database Lab (<i style='font-size: 0.8em;'>Instructor</i>)</li>
 </ul>
 
 
