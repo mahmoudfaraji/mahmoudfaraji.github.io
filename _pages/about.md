@@ -24,7 +24,7 @@ redirect_from:
 
 <p id="fullname" style="display: none;"><sup>#
 my full name is <i>Mahmoud Faraji</i> (in Persian: <span class='farsi'>محمود فرجی</span>), and here is my voice pronouncing my name:  
-<span><audio id="player" src="files/my-name.wav"></audio>
+<span><audio id="player" src="files/my-name.m4a"></audio>
 <img src="/images/speaker.png" style="width:20px; cursor:pointer;" onclick="document.getElementById('player').play()"></span></sup></p>
 
 <script>
