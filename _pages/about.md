@@ -44,7 +44,7 @@ function toggle_visibility(id) {
 <li> Database Lab (<i style='font-size: 0.8em;'>Instructor</i>)</li>
 </ul>
 
-### APA CERT:
+### APA AUT CERT:
 <ul class='twocol' markdown='1'>
 <li> Secure Programming on ASP.Net (<i style='font-size: 0.9em;'>Instuctor</i>), 2021</li>
 </ul>
