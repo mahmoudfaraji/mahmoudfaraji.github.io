@@ -17,8 +17,9 @@ redirect_from:
 **Hello!** I'm Mahmoud<sup><a href="#fullname" onclick="toggle_visibility('fullname');">#</a></sup>, a Master student in [Information&nbsp;Security](https://ce.aut.ac.ir/) under the supervision of [Hamid Reza&nbsp;Shahriari](https://aut.ac.ir/shahriari/) at [Tehran&nbsp;Polytechnic (AUT)](https://aut.ac.ir/en) for 2 years (MSc in Information Security). Since then, I have been pursuing my passion for:
 <ul class='twocol' style="margin-top: -1%;" markdown='1'>
 <li> Privacy Preserving Machine Learning</li>
-<li> Data Privacy</li>
+<li> Data Security and Privacy in IoT</li>
 <li> Programming Languages</li>
+<li> Cyber Security</li>
 </ul>
 
 <p id="fullname" style="display: none;"><sup>#
@@ -41,6 +42,14 @@ function toggle_visibility(id) {
 ### Tehran Polytechnic: 
 <ul class='twocol' markdown='1'>
 <li> Database Lab (<i style='font-size: 0.8em;'>Instructor</i>)</li>
+</ul>
+
+<a href="/honors"  class='header-color'>Honors and Activities</a>
+----
+<ul class='twocol' markdown='1'>
+<li> Member of the startup research team on the diagnosis of animal diseases using machine learning algorithms, 2022 </li>
+<li> Expert member of AUT CERT, 2021 - Now </li>
+<li> Member of <a href="http://atlas.aut.ac.ir/en/index.html">Security Analysis</a> Lab, Tehran Polytechnic, 2020 - Now </li>
 </ul>
 
 
