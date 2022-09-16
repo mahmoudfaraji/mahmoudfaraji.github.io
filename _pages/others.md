@@ -33,12 +33,14 @@ author_profile: true
 </ul>
 
 
-<a style='font-size: 0.7em' href="#" class='header-color'>References</a>
+<a style='font-size: 0.5em' href="#" class='header-color'>References</a>
 ----
 <div>
-<p>
-[1].<a id="Ref_1" href="https://ieeexplore.ieee.org/abstract/document/7958568">https://ieeexplore.ieee.org/abstract/document/7958568</a>
-[2].<a id="Ref_2" href="https://ieeexplore.ieee.org/abstract/document/8634878">https://ieeexplore.ieee.org/abstract/document/8634878</a>
+<p id="Ref_1">
+[1].<a href="https://ieeexplore.ieee.org/abstract/document/7958568">https://ieeexplore.ieee.org/abstract/document/7958568</a>
+</p>
+<p id="Ref_2">
+[2].<a href="https://ieeexplore.ieee.org/abstract/document/8634878">https://ieeexplore.ieee.org/abstract/document/8634878</a>
 </p>
 </div>
 
