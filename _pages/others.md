@@ -37,8 +37,8 @@ author_profile: true
 ----
 <div>
 <p>
-[1].<a id="Ref_1" href="https://ieeexplore.ieee.org/abstract/document/7958568"></a>
-[2].<a id="Ref_2" href="https://ieeexplore.ieee.org/abstract/document/8634878"></a>
+[1].<a id="Ref_1" href="https://ieeexplore.ieee.org/abstract/document/7958568">https://ieeexplore.ieee.org/abstract/document/7958568</a>
+[2].<a id="Ref_2" href="https://ieeexplore.ieee.org/abstract/document/8634878">https://ieeexplore.ieee.org/abstract/document/8634878</a>
 </p>
 </div>
 
