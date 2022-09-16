@@ -23,7 +23,7 @@ author_profile: true
 </ul>
 
 <p style='padding-left: 30px;'>
-<img src="/images/membership inference attack.png">
+<img style='border: 3px solid #111;width: 600px;' alt="Membership Inference Attack" src="/images/membership inference attack.png">
 <h3 style='padding-left: 30px;font-size: 0.6em;'> Picture Reference = [<a href="#Ref_2">2</a>]</h3>
 </p>
 
