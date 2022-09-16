@@ -24,7 +24,7 @@ author_profile: true
 
 <p style='padding-left: 30px;'>
 <img src="/images/membership inference attack.png">
-<h3> Picture Reference = [<a href="#Ref_2">2</a>]</h3>
+<h3 style='padding-left: 30px;'> Picture Reference = [<a href="#Ref_2">2</a>]</h3>
 </p>
 
 ### Islamic Azad University (South Tehran Branch):
@@ -33,9 +33,9 @@ author_profile: true
 </ul>
 
 
-<a style='font-size: 0.5em;' href="#" class='header-color'>References</a>
+<a style='font-size: 0.7em;' href="#" class='header-color'>References</a>
 --------
-<div style='font-size: 0.2em;'>
+<div style='font-size: 0.6em;'>
 <p id="Ref_1">
 [1].<a href="https://ieeexplore.ieee.org/abstract/document/7958568">https://ieeexplore.ieee.org/abstract/document/7958568</a>
 </p>
