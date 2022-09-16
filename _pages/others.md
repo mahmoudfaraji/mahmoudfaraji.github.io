@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 
-<a href="/others" class='header-color'>Research Experiences</a>
+<a href="/others"  class='header-color'>Research Experiences</a>
 ----
-### <a herf="https://apa.aut.ac.ir/en">APA</a> AUT CERT:
+### <a herf="https://apa.aut.ac.ir/en"> APA</a> AUT CERT:
 <ul class='onecol' markdown='1'>
 <li> Research Assistant at AUT CERT Lab. - (<i style='font-size: 0.8em;'>June 2021 - Now (In Progress) </i>)</li>
 <p> Web Application Security Analysis With Prof. <a href="https://aut.ac.ir/cv/2102/%d8%a8%d8%a7%d8%a8%da%a9%20%d8%b5%d8%a7%d8%af%d9%82%db%8c%d8%a7%d9%86">Babak Sadeghiyan</a></p>
@@ -34,7 +34,8 @@ author_profile: true
 
 <a style='font-size: 0.7em' href="#" class='header-color'>References</a>
 ----
+<ul>
 [1]. <p id="Ref_1">https://ieeexplore.ieee.org/abstract/document/7958568</p>
-
+</ul>
 
 
