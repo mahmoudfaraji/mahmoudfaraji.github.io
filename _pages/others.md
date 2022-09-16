@@ -33,9 +33,9 @@ author_profile: true
 </ul>
 
 
-<a style='font-size: 0.5em' href="#" class='header-color'>References</a>
+<a style='font-size: 0.5em;' href="#" class='header-color'>References</a>
 ----
-<div>
+<div style='font-size: 0.2em;'>
 <p id="Ref_1">
 [1].<a href="https://ieeexplore.ieee.org/abstract/document/7958568">https://ieeexplore.ieee.org/abstract/document/7958568</a>
 </p>
