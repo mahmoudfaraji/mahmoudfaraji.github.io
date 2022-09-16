@@ -24,6 +24,7 @@ author_profile: true
 
 <p>
 <img src="/images/membership inference attack.png">
+<h3> Picure Ref = [[<a href="#Ref_2">2</a>]]</h3>
 </p>
 
 ### Islamic Azad University (South Tehran Branch):
@@ -36,6 +37,7 @@ author_profile: true
 ----
 <ul>
 [1]. <p id="Ref_1">https://ieeexplore.ieee.org/abstract/document/7958568</p>
+[2]. <p id="Ref_2">https://ieeexplore.ieee.org/abstract/document/8634878</p>
 </ul>
 
 
