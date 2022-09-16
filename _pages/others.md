@@ -27,11 +27,6 @@ author_profile: true
 <h3 style='padding-left: 30px;font-size: 0.6em;'> Picture Reference = [<a href="#Ref_2">2</a>]</h3>
 </p>
 
-### Islamic Azad University (South Tehran Branch):
-<ul class='onecol' markdown='1'>
-<li> Programming Language (<i style='font-size: 0.9em;'>Instuctor</i>), 2019</li>
-</ul>
-
 
 <a style='font-size: 0.7em;' href="#" class='header-color'>References</a>
 --------
