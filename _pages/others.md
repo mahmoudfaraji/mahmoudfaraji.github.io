@@ -22,6 +22,10 @@ author_profile: true
 <p> Machine learning models leak information about the individual data records on which they were trained. <a href="https://www.comp.nus.edu.sg/~reza/">Reza Shokri</a> et al.[<a href="#Ref_1">1</a>] focus on the basic membership inference attack: given a data record and black-box access to a model, determine if the record was in the model's training dataset. To perform membership inference against a target model, they make adversarial use of machine learning and train their own inference model to recognize differences in the target model's predictions on the inputs that it trained on versus the inputs that it did not train on. They empirically evaluate their inference techniques on classification models trained by commercial "machine learning as a service" providers such as Google and Amazon. Using realistic datasets and classification tasks, including a hospital discharge dataset whose membership is sensitive from the privacy perspective, they show that these models can be vulnerable to membership inference attacks. So, in this lab we are looking for find a way for protect from healthcare data privacy in iot which causes the data to be stored anonymously and enter the training stage of machine learning algorithms so that these machine learning algorithms do not understand the original data. Also this solution must be lightweight for IoT environment.</p>
 </ul>
 
+<p>
+<img src="/images/membership inference attack.png">
+</p>
+
 ### Islamic Azad University (South Tehran Branch):
 <ul class='onecol' markdown='1'>
 <li> Programming Language (<i style='font-size: 0.9em;'>Instuctor</i>), 2019</li>
