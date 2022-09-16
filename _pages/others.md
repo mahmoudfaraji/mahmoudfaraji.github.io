@@ -12,7 +12,7 @@ author_profile: true
 <ul class='onecol' markdown='1'>
 <li> Research Assistant at AUT CERT Lab. - (<i style='font-size: 0.8em;'>June 2021 - Now (In Progress) </i>)</li>
 <p> Web Application Security Analysis With Prof. <a href="https://aut.ac.ir/cv/2102/%d8%a8%d8%a7%d8%a8%da%a9%20%d8%b5%d8%a7%d8%af%d9%82%db%8c%d8%a7%d9%86">Babak Sadeghiyan</a></p>
-<p> In this laboratory, we examine the security vulnerabilities of web and mobile applications and we provide awareness to business owners of the existence of security bugs that we have identified based on the OWASP standard and for improve and fix this vulnerabilities give them advice.</p>
+<p> In this lab, we examine the security vulnerabilities of web and mobile applications and we provide awareness to business owners of the existence of security bugs that we have identified based on the OWASP standard and for improve and fix this vulnerabilities give them advice.</p>
 </ul>
 
 ### Amirkabir University of Technology (Tehran Polytechnic) (AUT): 
