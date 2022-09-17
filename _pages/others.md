@@ -27,7 +27,7 @@ author_profile: true
   
       <li>
         <p style='text-align: justify;'> "A Method for Protecting Privacy of IoT Healthcare Data Against Machine Learning Attack" M.Sc. Thesis with Prof. <a href="https://aut.ac.ir/~shahriari" target="_Blank">Hamid Reza Shahriari</a></p>
-        <p style='text-align: justify;'> Machine learning models leak information about the individual data records on which they were trained. <a href="https://www.comp.nus.edu.sg/~reza/" target="_Blank">Reza Shokri</a> et al.[<a href="#Ref_1">1</a>] focus on the basic membership inference attack: given a data record and black-box access to a model, determine if the record was in the model's training dataset. To perform membership inference against a target model, they make adversarial use of machine learning and train their own inference model to recognize differences in the target model's predictions on the inputs that it trained on versus the inputs that it did not train on. They empirically evaluate their inference techniques on classification models trained by commercial "machine learning as a service" providers such as Google and Amazon. Using realistic datasets and classification tasks, including a hospital discharge dataset whose membership is sensitive from the privacy perspective, they show that these models can be vulnerable to membership inference attacks. So, in this lab we are looking for find a way for protect from healthcare data privacy in iot which causes the data to be stored anonymously and enter the training stage of machine learning algorithms so that these machine learning algorithms do not understand the original data. Also this solution must be lightweight for IoT environment.</p>
+        <p style='text-align: justify;'> Machine learning models leak information about the individual data records on which they were trained. Reza Shokri et al.[<a href="#Ref_1">1</a>] focus on the basic membership inference attack: given a data record and black-box access to a model, determine if the record was in the model's training dataset. To perform membership inference against a target model, they make adversarial use of machine learning and train their own inference model to recognize differences in the target model's predictions on the inputs that it trained on versus the inputs that it did not train on. They empirically evaluate their inference techniques on classification models trained by commercial "machine learning as a service" providers such as Google and Amazon. Using realistic datasets and classification tasks, including a hospital discharge dataset whose membership is sensitive from the privacy perspective, they show that these models can be vulnerable to membership inference attacks. So, in this lab we are looking for find a way for protect from healthcare data privacy in iot which causes the data to be stored anonymously and enter the training stage of machine learning algorithms so that these machine learning algorithms do not understand the original data. Also this solution must be lightweight for IoT environment.</p>
       </li>
   
       <p style='padding-left: 30px;'>
@@ -38,7 +38,7 @@ author_profile: true
   
    <li>
         <p style='text-align: justify;'> "A Secure Protoloc ECC Based for Authentication and Anonymization of Data in IOMT" Paper with Prof. <a href="https://aut.ac.ir/~shahriari" target="_Blank">Hamid Reza Shahriari</a></p>
-        <p style='text-align: justify;'> Description</p>
+        <p style='text-align: justify;'> The recent developments in Cloud-IoT has paved the way to the emergence of remote real-time health monitoring systems, where wearable sensors collect patient's health data and transfer it to the cloud server. The server then provides data access for specialists and doctors or for diseases prediction by machine learning algorithms. Due to the high sensitivity of health-related data, establishing a secure and privacy-preserving data access and communication is a major challenge in the success of remote healthcare systems. In other words, there needs to be an efficient authentication scheme that enables authorized parties to agree on a shared key and communicate in a secure manner. Moreover, the data must be stored on the server in a way that protects their privacy from people or even machine learning algorithms. Because even when machine learning algorithms see real data in the training phase, they can be exposed based on attacks such as membership inference (mentioned above and in the M.Sc. thesis). Also, due to the limited storage and computation capacity of sensor devices, the scheme should be lightweight in terms of incurring minimum computation overhead. Therefore, in this research, we seek to design a secure protocol based on ECC that uses the difficulty of the discrete logarithm problem.(ECDLP) and stored data by anonymous way. Recently, Kumari et al.[<a href="#Ref_3">3</a>] proposed an authentication scheme based on elliptic curve cryptography (ECC) for IoT and cloud servers and claimed that it satisfies all security requirements and is secure against various attacks, while susceptible to various attacks, including the replay attack and stolen-verifier attack. Also, Alzahrani et al.[<a href="#Ref_4">4</a>] proposed a remote patient monitoring authentication protocol, while their scheme is not robust to the stolen verifier attack and lacks the provision of perfect forward secrecy.</p>
    </li>
   
    </ul>
@@ -54,6 +54,12 @@ author_profile: true
 </p>
 <p id="Ref_2">
 [2].<a href="https://ieeexplore.ieee.org/abstract/document/8634878" target="_Blank">https://ieeexplore.ieee.org/abstract/document/8634878</a>
+</p>
+<p id="Ref_3">
+[2].<a href="https://link.springer.com/article/10.1007/s11227-017-2048-0" target="_Blank">https://link.springer.com/article/10.1007/s11227-017-2048-0</a>
+</p>
+<p id="Ref_4">
+[2].<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/dac.4423" target="_Blank">https://onlinelibrary.wiley.com/doi/abs/10.1002/dac.4423</a>
 </p>
 </div>
 
