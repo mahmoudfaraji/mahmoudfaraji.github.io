@@ -37,17 +37,17 @@ author_profile: true
 <p style='text-align: justify;'> The recent developments in Cloud-IoT has paved the way to the emergence of remote real-time health monitoring systems, where wearable sensors collect patient's health data and transfer it to the cloud server. The server then provides data access for specialists and doctors or for diseases prediction by machine learning algorithms. Due to the high sensitivity of health-related data, establishing a secure and privacy-preserving data access and communication is a major challenge in the success of remote healthcare systems. In other words, there needs to be an efficient authentication scheme that enables authorized parties to agree on a shared key and communicate in a secure manner. Moreover, the data must be stored on the server in a way that protects their privacy from people or even machine learning algorithms. Because even when machine learning algorithms see real data in the training phase, they can be exposed based on attacks such as membership inference (mentioned above and in the M.Sc. thesis). Also, due to the limited storage and computation capacity of sensor devices, the scheme should be lightweight in terms of incurring minimum computation overhead. Therefore, in this research, we seek to design a secure protocol based on ECC that uses the difficulty of the discrete logarithm problem.(ECDLP) and stored data by anonymous way. Recently, Kumari et al.[<a href="#Ref_3">3</a>] proposed an authentication scheme based on elliptic curve cryptography (ECC) for IoT and cloud servers and claimed that it satisfies all security requirements and is secure against various attacks, while susceptible to various attacks, including the replay attack and stolen-verifier attack. Also, Alzahrani et al.[<a href="#Ref_4">4</a>] proposed a remote patient monitoring authentication protocol, while their scheme is not robust to the stolen verifier attack and lacks the provision of perfect forward secrecy.</p>
    </li>
    
-<p style='padding-left: 30px;'> Overview:
+<p style='padding-left: 30px;'> Overview:</p>
 <img style='border: 3px solid #111;width: 600px;' alt="Cryptography Algorithm" src="/images/Cryptography Alg. pic1.png">
-</p>
 
-<p style='padding-left: 30px;'> Function <i style='font-size: 7em;'>f</i>:
+
+<p style='padding-left: 30px;'> Function <i style='font-size: 7em;'>f</i>:</p>
 <img style='border: 3px solid #111;width: 600px;' alt="Cryptography Algorithm" src="/images/Cryptography Alg. pic2.png">
-</p>
 
-<p style='padding-left: 30px;'> Key Generation:
+
+<p style='padding-left: 30px;'> Key Generation:</p>
 <img style='border: 3px solid #111;width: 600px;' alt="Cryptography Algorithm" src="/images/Cryptography Alg. pic3.png">
-</p>
+
 
 
    
