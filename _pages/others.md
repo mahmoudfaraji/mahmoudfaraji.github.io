@@ -55,7 +55,7 @@ In addition, the number of lines of this algorithm is 344 lines in Python along 
       </li>
 <p style='padding-left: 30px;'> Overview:</p>
 <img style='border: 3px solid #111;width: 600px;' alt="Cryptography Algorithm" src="/images/Cryptography Alg. pic1.png">
-<p> More details and code: <a style='font-size: 0.6em;' href="https://github.io/mahmoudfaraji/technicalReports/newCryptographyAlg">https://github.com/mahmoudfaraji/technicalReports/newCryptographyAlg</a></p>
+<p> More details and code: <a style='font-size: 0.6em;' href="https://github.com/mahmoudfaraji/technicalReports/newCryptographyAlg">https://github.com/mahmoudfaraji/technicalReports/newCryptographyAlg</a></p>
 </ul>
 </li>
 </ul>
