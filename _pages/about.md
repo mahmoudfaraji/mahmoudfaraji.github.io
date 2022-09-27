@@ -18,8 +18,8 @@ redirect_from:
 <ul class='twocol' style="margin-top: -1%;" markdown='1'>
 <li> Privacy Preserving Machine Learning</li>
 <li> Data Security and Privacy in IoT</li>
-<li> Programming Languages</li>
 <li> Cyber Security</li>
+<li> Programming Languages</li>
 </ul>
 
 <p id="fullname" style="display: none;"><sup>#
