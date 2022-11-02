@@ -41,7 +41,7 @@ author_profile: true
 </ul>
 
 
-<a href="/others"  class='header-color'>Technical Reports</a>
+<a href="#"  class='header-color'>Technical Reports</a>
 ---------
 ### Amirkabir University of Technology (Tehran Polytechnic) (AUT):
 <ul class='onecol' markdown='1'>
