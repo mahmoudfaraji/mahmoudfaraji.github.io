@@ -16,8 +16,10 @@ redirect_from:
 
 **Hello!** I'm Mahmoud<sup><a href="#fullname" onclick="toggle_visibility('fullname');">#</a></sup>, a Master student in [Information&nbsp;Security](https://ce.aut.ac.ir/) under the supervision of [Hamid Reza&nbsp;Shahriari](https://aut.ac.ir/shahriari/) at [Tehran&nbsp;Polytechnic (AUT)](https://aut.ac.ir/en) for 2 years (MSc in Information Security). Since then, I have been pursuing my passion for:
 <ul class='twocol' style="margin-top: -1%;" markdown='1'>
-<li> Privacy Preserving Machine Learning</li>
+<li> Security Protocols</li>
+<li> Wireless Communications</li>
 <li> Data Security and Privacy in IoT</li>
+<li> Privacy Preserving Machine Learning</li>
 <li> Cyber Security</li>
 <li> Programming Languages</li>
 </ul>
