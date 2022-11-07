@@ -71,11 +71,5 @@ In addition, the number of lines of this algorithm is 344 lines in Python along 
 <p id="Ref_2">
 [2].<a href="https://ieeexplore.ieee.org/abstract/document/8634878" target="_Blank">https://ieeexplore.ieee.org/abstract/document/8634878</a>
 </p>
-<p id="Ref_3">
-[3].<a href="https://link.springer.com/article/10.1007/s11227-017-2048-0" target="_Blank">https://link.springer.com/article/10.1007/s11227-017-2048-0</a>
-</p>
-<p id="Ref_4">
-[4].<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/dac.4423" target="_Blank">https://onlinelibrary.wiley.com/doi/abs/10.1002/dac.4423</a>
-</p>
-</div>
+
 
