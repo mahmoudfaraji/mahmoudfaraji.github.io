@@ -10,7 +10,13 @@ I *love* teaching and I've been ardently doing it since I was 20 in University. 
 
 
 ## Tehran Polytechnic: 
-- Database Lab (<i style='font-size: 0.9em;'>Instuctor</i>), Winter & Spring 2022
+- Data Communication (<i style='font-size: 0.9em;'>Teacher Assistant - Undergraduate</i>), Fall 2022
+- Database Lab (<i style='font-size: 0.9em;'>Instuctor - Undergraduate</i>), Winter & Fall 2022
+- Security Protocols (<i style='font-size: 0.9em;'>Teacher Assistant - Graduate</i>), Winter 2022
+- Database Security (<i style='font-size: 0.9em;'>Teacher Assistant - Graduate</i>), Winter 2022
+- Computer Security (<i style='font-size: 0.9em;'>Teacher Assistant - Undergraduate & Graduate</i>), Fall 2021 & 2022
+- Applied Cryptography (<i style='font-size: 0.9em;'>Teacher Assistant - Graduate</i>), Fall 2021 & 2022
+
 
 ## APA AUT CERT:
 - Secure Programming on ASP.Net (<i style='font-size: 0.9em;'>Instuctor</i>), Fall 2021
