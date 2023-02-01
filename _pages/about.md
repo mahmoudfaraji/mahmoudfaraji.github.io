@@ -48,6 +48,7 @@ function toggle_visibility(id) {
 <li> Applied Cryptography (<i style='font-size: 0.8em;'>Teacher Assistant</i>)</li>
 <li> Security Protocols (<i style='font-size: 0.8em;'>Teacher Assistant</i>)</li>
 <li> Computer Security (<i style='font-size: 0.8em;'>Teacher Assistant</i>)</li>
+<li> Database Security (<i style='font-size: 0.8em;'>Teacher Assistant</i>)</li>
 </ul>
 
 ### APA AUT CERT:
