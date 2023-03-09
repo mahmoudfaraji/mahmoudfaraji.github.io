@@ -41,8 +41,7 @@ function toggle_visibility(id) {
 
 <a href="/publications" class='header-color'>Publications</a>
 ----
-0. **Design and Implementation a New Cryptography Algorithm**, *Technical report*, Oct. 2020 - Feb. 2021
-<!--[[pdf](link)]-->
+0. **Design and Implementation a New Cryptography Algorithm**, *Technical report*, Oct. 2020 - Feb. 2021 <!--[[pdf](link)]-->
 <br>Supervisor: Babak Sadeghyian
 0. **A Distributed System for Managing Warehouse Branches**, *Bachelor's thesis*, 2015 <!--[[pdf](link)]-->
 {: reversed="reversed"}
