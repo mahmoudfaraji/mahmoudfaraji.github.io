@@ -14,14 +14,14 @@ redirect_from:
 .twocol{ columns: 2}
 </style>
 
-**Hello!** I'm Mahmoud<sup><a href="#fullname" onclick="toggle_visibility('fullname');">#</a></sup>, a Master student in [Information&nbsp;Security](https://ce.aut.ac.ir/) under the supervision of [Hamid Reza&nbsp;Shahriari](https://aut.ac.ir/shahriari/) at [Tehran&nbsp;Polytechnic (AUT)](https://aut.ac.ir/en) for 2 years (MSc in Information Security). Since then, I have been pursuing my passion for:
+**Hello!** I'm Mahmoud<sup><a href="#fullname" onclick="toggle_visibility('fullname');">#</a></sup>, a Master student in [Information&nbsp;Security](https://ce.aut.ac.ir/) under the supervision of [Hamid Reza&nbsp;Shahriari](https://aut.ac.ir/shahriari/) at [Tehran&nbsp;Polytechnic (AUT)](https://aut.ac.ir/en) for 2 years (M.Sc. in Information Security). Since then, I have been pursuing my passion for:
 <ul class='twocol' style="margin-top: -1%;" markdown='1'>
-<li> Security Protocols</li>
-<li> Wireless Communications</li>
-<li> Data Security and Privacy in IoT</li>
 <li> Privacy Preserving Machine Learning</li>
 <li> Cyber Security</li>
+<li> Data Security and Privacy in IoT</li>
+<li> Security Protocols</li>
 <li> Programming Languages</li>
+<li> Wireless Communications</li>
 </ul>
 
 <p id="fullname" style="display: none;"><sup>#
@@ -58,7 +58,8 @@ function toggle_visibility(id) {
 
 ### Freelance:
 <ul class='twocol' markdown='1'>
-<li> Programming Language (<i style='font-size: 0.9em;'>Instuctor</i>), 2019</li>
+<li> Programming Languages (Python & Asp.Net Core) (<i style='font-size: 0.9em;'>Instuctor</i>), 2018 - 2020</li>
+<li> Academic Courses (Undergraduate) (<i style='font-size: 0.9em;'>Instuctor</i>), 2018 - 2020</li>
 </ul>
 
 <a href="/honors"  class='header-color'>Honors and Activities</a>
