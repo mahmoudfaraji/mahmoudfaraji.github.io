@@ -59,7 +59,7 @@ function toggle_visibility(id) {
 ### Freelance:
 <ul class='twocol' markdown='1'>
 <li> Programming Languages (Python & Asp.Net Core) (<i style='font-size: 0.9em;'>Instuctor</i>), 2018 - 2020</li>
-<li> Academic Courses (Undergraduate) (<i style='font-size: 0.9em;'>Instuctor</i>), 2018 - 2020</li>
+<li> Academic Courses (<i style='font-size: 0.9em;'>Undergraduate - Instuctor</i>), 2018 - 2020</li>
 </ul>
 
 <a href="/honors"  class='header-color'>Honors and Activities</a>
