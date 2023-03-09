@@ -22,5 +22,6 @@ I *love* teaching and I've been ardently doing it since I was 20 in University. 
 - Secure Programming on ASP.Net (<i style='font-size: 0.9em;'>Instuctor</i>), Fall 2021
 
 ## Freelance:
-- Programming Language, Spring 2019
+- Python (<i style='font-size: 0.9em;'>Instuctor</i>), 2018 - 2020
+- Asp.Net Core (C#) (<i style='font-size: 0.9em;'>Instuctor</i>), 2018 - 2020
 
