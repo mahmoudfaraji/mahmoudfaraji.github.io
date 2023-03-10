@@ -29,6 +29,15 @@ author_profile: true
 <ol reversed>
 
 <div id="1">
+<li> <b>Security and Privacy in Smart Contract & Blockchain</b>, <em>M.Sc. Seminar</em>, Sep. 2021 <!--[<a href="#">pdf</a>] [<a href="#">link</a>]-->
+<br>Supervisor: Hamid Reza Shahriari, Opponent: Reza Safabakhsh
+<div class='button' data-content="toggle-text"><a href="#1">abstract</a></div>
+<div class='abstract'>
+This presentation's goal is to provide an in-depth analysis of the technical issues with smart contracts, which are made possible by blockchain technology, and call for user privacy and security safeguards.
+</div></li></div>
+  
+  
+<div id="2">
 <li> <b>Design and Implementation a New Cryptography Algorithm</b>, <em>Technical Report</em>, Oct. 2020 - Feb. 2021 <!--[<a href="#">pdf</a>] [<a href="#">link</a>]-->
 <br>Supervisor: Babak Sadeghyian
 <div class='button' data-content="toggle-text"><a href="#1">abstract</a></div>
@@ -37,7 +46,7 @@ Designing a cryptographic algorithm can be one of the solutions in order to eval
 </div></li></div>
   
   
-<div id="2">
+<div id="3">
 <li> <b>A Distributed System for Managing Warehouse Branches</b>, <em>Bachelor's thesis</em>, 2019 <!--[<a href="#">pdf</a>] [<a href="#">link</a>]-->
 <div class='button' data-content="toggle-text"><a href="#1">abstract</a></div>
 <div class='abstract'>
