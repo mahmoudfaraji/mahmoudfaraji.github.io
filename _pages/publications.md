@@ -29,7 +29,7 @@ author_profile: true
 <ol reversed>
 
 <div id="1">
-<li> <b>Security and Privacy in Smart Contract & Blockchain</b>, <em>M.Sc. Seminar</em>, Sep. 2021 <!--[<a href="#">pdf</a>] [<a href="#">link</a>]-->
+<li> <b>Security and Privacy in Blockchain Smart Contracts</b>, <em>M.Sc. Seminar</em>, Sep. 2021 <!--[<a href="#">pdf</a>] [<a href="#">link</a>]-->
 <br>Supervisor: Hamid Reza Shahriari, Opponent: Reza Safabakhsh
 <div class='button' data-content="toggle-text"><a href="#1">abstract</a></div>
 <div class='abstract'>
