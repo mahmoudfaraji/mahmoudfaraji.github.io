@@ -49,7 +49,7 @@ author_profile: true
       </li>
 <p style='padding-left: 30px;'> Overview:</p>
 <img style='border: 3px solid #111;width: 600px;' alt="Cryptography Algorithm" src="/images/Cryptography Alg. pic1.png">
-<p style='font-size: 0.6em;'> More details and code: <a href="https://github.com/mahmoudfaraji/technicalReports/tree/main/newCryptographyAlg">New Cryptography Algorithm</a></p>
+<p style='font-size: 0.6em;'> More details and code: <a href="https://github.com/mahmoudfaraji/MScDocuments/tree/main/TechnicalReports/newCryptoAlgorithm">New Cryptography Algorithm</a></p>
 </ul>
 </li>
 </ul>
