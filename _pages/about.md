@@ -41,6 +41,8 @@ function toggle_visibility(id) {
 
 <a href="/publications" class='header-color'>Publications</a>
 ----
+0. **Security and privacy in blockchain smart contracts**, *M.Sc. Seminar*, Sep. 2021 <!--[[pdf](link)]-->
+<br>Supervisor: Hamid Reza Shahriari, Opponent: Reza Safabakhsh
 0. **Design and Implementation a New Cryptography Algorithm**, *Technical report*, Oct. 2020 - Feb. 2021 <!--[[pdf](link)]-->
 <br>Supervisor: Babak Sadeghyian
 0. **A Distributed System for Managing Warehouse Branches**, *Bachelor's thesis*, 2015 <!--[[pdf](link)]-->
