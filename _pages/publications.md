@@ -56,7 +56,7 @@ This presentation's goal is to provide an in-depth analysis of the technical iss
   
   
 <div id="4">
-<li> <b>Design and Implementation a New Cryptography Algorithm</b>, <em>Technical Report</em>, Oct. 2020 - Feb. 2021 <!--[<a href="#">pdf</a>] [<a href="#">link</a>]-->
+<li> <b>Design and Implementation a New Cryptography Algorithm</b>, <em>Technical Report</em>, Oct. 2020 - Feb. 2021 <!--[<a href="#">pdf</a>]--> [<a href="https://github.com/mahmoudfaraji/MScDocuments/tree/main/TechnicalReports/newCryptoAlgorithm">link</a>]
 <br>Supervisor: Babak Sadeghyian
 <div class='button' data-content="toggle-text"><a href="#1">abstract</a></div>
 <div class='abstract'>
