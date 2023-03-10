@@ -10,7 +10,7 @@ author_profile: true
 ----
 ### APA AUT CERT (<a href="https://apa.aut.ac.ir/en" target="_Blank">https://apa.aut.ac.ir/en</a>):
 <ul class='onecol' markdown='1'>
-  <li> Research Assistant at AUT CERT Lab. - (<i style='font-size: 0.8em;'>June 2021 - Now (In Progress) </i>)
+  <li> Research Assistant at AUT CERT Lab. - (<i style='font-size: 0.8em;'>June 2021 - Now </i>)
     <ul>
       <li>
         <p style='text-align: justify;'> "Web Application Security Analysis" With Prof. <a href="https://aut.ac.ir/cv/2102/%d8%a8%d8%a7%d8%a8%da%a9%20%d8%b5%d8%a7%d8%af%d9%82%db%8c%d8%a7%d9%86" target="_Blank">Babak Sadeghiyan</a></p>
@@ -22,7 +22,7 @@ author_profile: true
 
 ### Amirkabir University of Technology (Tehran Polytechnic) (AUT): 
 <ul class='onecol' markdown='1'>
-<li> Research Assistant at Security Analysis Lab. - (<i style='font-size: 0.8em;'>Sep. 2021 - Nov. 2022 (Expected) (In Progress) </i>)
+<li> Research Assistant at Security Analysis Lab. - (<i style='font-size: 0.8em;'>Sep. 2021 - Now </i>)
 <ul>
 <li>
 <p style='text-align: justify;'> "A Method for Protecting Privacy of IoT Healthcare Data Against Machine Learning Attack" M.Sc. Thesis with Prof. <a href="https://aut.ac.ir/~shahriari" target="_Blank">Hamid Reza Shahriari</a></p>
@@ -32,10 +32,6 @@ author_profile: true
 <img style='border: 3px solid #111;width: 600px;' alt="Membership Inference Attack" src="/images/membership inference attack.png">
 <h3 style='padding-left: 30px;font-size: 0.6em;'> Picture Reference = [<a href="#Ref_2">2</a>]</h3>
 </p>
-<li>
-<p style='text-align: justify;'> "A Secure and Efficient Scheme for Mutaul Authentication for Integrity of Exchanged Data in IoMT" Paper with Prof. <a href="https://aut.ac.ir/~shahriari" target="_Blank">Hamid Reza Shahriari</a></p>
-<p style='text-align: justify;'> The emergence of pandemic diseases like Covid-19 in recent years has made it more important for Internet of Medical Things (IoMT) environments to build contact between patients and doctors in order to control their health state. Patients will be able to send their healthcare data to the cloud server of the medical service provider in remote medical environments through sensors connected to their smart devices, such as watches or smartphones. However, patients' worries surrounding their data privacy protection are still present. In order to ensure the security and privacy of patients' healthcare data in remote medical environments, a number of different schemes have been proposed by researchers. However, these schemes have not been able to take all security requirements into account. Consequently, in this study, we have proposed a secure and effective protocol to safeguard the privacy of patients' medical data when it is sent to the server. This protocol entails two components: mutual authentication of the patient and the server of the medical service provider, as well as the integrity of the exchanged data. Also, our scheme satisfies security requirements and is resistant to well-known attacks. Following this, we used the Scyther tool to formally analyze our proposed scheme. The results showed that the scheme is secure, and in the section on performance analysis, we demonstrated that the proposed scheme performs better than comparable schemes.</p>
-   </li>
    </ul>
   </li>
 </ul>
