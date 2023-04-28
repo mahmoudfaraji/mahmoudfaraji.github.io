@@ -38,7 +38,7 @@ One of the most significant and widespread uses of machine learning models is in
   
   
 <div id="2">
-<li> <b>A Secure and Efficient Scheme for Mutual Authentication for Integrity of Exchanged Data in IoMT</b>, <em><a href="https://csicc2023.csi.org.ir/Home">CSICC 2023</a></em>, Jan. 2023 <!--[<a href="#">pdf</a>]--> [<a href="https://ieeexplore.ieee.org/document/10105398?signout=success">link</a>]
+<li> <b>A Secure and Efficient Scheme for Mutual Authentication for Integrity of Exchanged Data in IoMT</b>, <em><a href="https://csicc2023.csi.org.ir/Home">CSICC 2023</a></em>, Jan. 2023 <!--[<a href="#">pdf</a>]--> [<a href="https://ieeexplore.ieee.org/document/10105398">link</a>]
 <br>Mahmoud Faraji, Hamid Reza Shahriari, Mahdi Nikooghadam
 <div class='button' data-content="toggle-text"><a href="#1">abstract</a></div>
 <div class='abstract'>
