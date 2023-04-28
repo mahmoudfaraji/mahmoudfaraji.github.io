@@ -29,7 +29,7 @@ author_profile: true
 <ol reversed>
 
 <div id="1">
-<li> <b>A Method for Protecting Privacy of IoT-Based Healthcare Data</b>, <em>M.Sc. Thesis</em>, March 2023 <!--[<a href="#">pdf</a>] [<a href="#">link</a>]-->
+<li> <b>A Method for Protecting Privacy of IoT-Based Healthcare Data</b>, <em>Master's Thesis</em>, March 2023 <!--[<a href="#">pdf</a>] [<a href="#">link</a>]-->
 <br>Supervisor: Hamid Reza Shahriari, Opponent: Ehsan Nazerfard, Morteza Amini
 <div class='button' data-content="toggle-text"><a href="#1">abstract</a></div>
 <div class='abstract'>
@@ -38,7 +38,7 @@ One of the most significant and widespread uses of machine learning models is in
   
   
 <div id="2">
-<li> <b>A Secure and Efficient Scheme for Mutual Authentication for Integrity of Exchanged Data in IoMT</b>, <em><a href="https://csicc2023.csi.org.ir/Home">CSICC 2023</a></em>, Jan. 2023 <!--[<a href="#">pdf</a>] [<a href="#">link</a>]-->
+<li> <b>A Secure and Efficient Scheme for Mutual Authentication for Integrity of Exchanged Data in IoMT</b>, <em><a href="https://csicc2023.csi.org.ir/Home">CSICC 2023</a></em>, Jan. 2023 <!--[<a href="#">pdf</a>]--> [<a href="https://ieeexplore.ieee.org/document/10105398?signout=success">link</a>]
 <br>Mahmoud Faraji, Hamid Reza Shahriari, Mahdi Nikooghadam
 <div class='button' data-content="toggle-text"><a href="#1">abstract</a></div>
 <div class='abstract'>
@@ -47,7 +47,7 @@ The emergence of pandemic diseases like Covid-19 in recent years has made it mor
   
   
 <div id="3">
-<li> <b>Security and Privacy in Blockchain Smart Contracts</b>, <em>M.Sc. Seminar</em>, Sep. 2021 <!--[<a href="#">pdf</a>] [<a href="#">link</a>]-->
+<li> <b>Security and Privacy in Blockchain Smart Contracts</b>, <em>Master's Seminar</em>, Sep. 2021 <!--[<a href="#">pdf</a>] [<a href="#">link</a>]-->
 <br>Supervisor: Hamid Reza Shahriari, Opponent: Reza Safabakhsh
 <div class='button' data-content="toggle-text"><a href="#1">abstract</a></div>
 <div class='abstract'>
