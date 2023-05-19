@@ -45,7 +45,7 @@ function toggle_visibility(id) {
 <br>Supervisor: Hamid Reza Shahriari, Opponent: Ehsan Nazerfard, Morteza Amini
 0. **A Secure and Efficient Scheme for Mutual Authentication for Integrity of Exchanged Data in IoMT**, *CSICC 2023*, Jan. 2023 <!--[[pdf](link)]-->
 <br>Mahmoud Faraji, Hamid Reza Shahriari, Mahdi Nikooghadam
-0. **Security and Privacy in Blockchain Smart Contracts**, *Master's Seminar*, Sep.2021 <!--[[pdf](link)]-->
+0. **Security and Privacy in Blockchain Smart Contracts**, *Master's Seminar*, Sep. 2021 <!--[[pdf](link)]-->
 <br>Supervisor: Hamid Reza Shahriari, Opponent: Reza Safabakhsh
 0. **Design and Implementation a New Cryptography Algorithm**, *Technical report*, Oct. 2020 - Feb. 2021 <!--[[pdf](link)]-->
 <br>Supervisor: Babak Sadeghyian
