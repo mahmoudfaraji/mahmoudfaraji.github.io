@@ -14,14 +14,14 @@ redirect_from:
 .twocol{ columns: 2}
 </style>
 
-**Hello!** I'm Mahmoud<sup><a href="#fullname" onclick="toggle_visibility('fullname');">#</a></sup>, a Master student in [Information&nbsp;Security](https://ce.aut.ac.ir/) under the supervision of [Hamid Reza&nbsp;Shahriari](https://aut.ac.ir/shahriari/) at [Tehran&nbsp;Polytechnic (AUT)](https://aut.ac.ir/en) for 2 years (M.Sc. in Information Security). Since then, I have been pursuing my passion for:
+**Hello!** I'm Mahmoud<sup><a href="#fullname" onclick="toggle_visibility('fullname');">#</a></sup>, a M.Sc. graduate in [Information&nbsp;Security](https://ce.aut.ac.ir/) under the supervision of [Hamid Reza&nbsp;Shahriari](https://aut.ac.ir/shahriari/) at [Tehran&nbsp;Polytechnic (AUT)](https://aut.ac.ir/en) for 2 years (M.Sc. in Information Security). Since then, I have been pursuing my passion for:
 <ul class='twocol' style="margin-top: -1%;" markdown='1'>
 <li> Cyber Security</li>
-<li> Privacy Preserving Machine Learning</li>
-<li> Federated Learning</li>
-<li> Cryptography</li>
-<li> Security Protocols</li>
+<li> Security Analysis</li>
+<li> Software Security</li>
 <li> Programming Languages</li>
+<li> Data Privacy</li>
+<li> Privacy Preserving Machine Learning</li>
 </ul>
 
 <p id="fullname" style="display: none;"><sup>#
@@ -41,15 +41,15 @@ function toggle_visibility(id) {
 
 <a href="/publications" class='header-color'>Publications</a>
 ----
-0. **A Method for Protecting Privacy of IoT-Based Healthcare Data**, *Master's Thesis*, March 2023 <!--[[pdf](link)]-->
+0. **A Method for Protecting Privacy of IoT-Based Healthcare Data**, *M.Sc. Thesis*, March 2023 <!--[[pdf](link)]-->
 <br>Supervisor: Hamid Reza Shahriari, Opponent: Ehsan Nazerfard, Morteza Amini
 0. **A Secure and Efficient Scheme for Mutual Authentication for Integrity of Exchanged Data in IoMT**, *CSICC 2023*, Jan. 2023 <!--[[pdf](link)]-->
 <br>Mahmoud Faraji, Hamid Reza Shahriari, Mahdi Nikooghadam
-0. **Security and Privacy in Blockchain Smart Contracts**, *Master's Seminar*, Sep. 2021 <!--[[pdf](link)]-->
+0. **Security and Privacy in Blockchain Smart Contracts**, *M.Sc. Seminar*, Sep. 2021 <!--[[pdf](link)]-->
 <br>Supervisor: Hamid Reza Shahriari, Opponent: Reza Safabakhsh
 0. **Design and Implementation a New Cryptography Algorithm**, *Technical report*, Oct. 2020 - Feb. 2021 <!--[[pdf](link)]-->
 <br>Supervisor: Babak Sadeghyian
-0. **A Distributed System for Managing Warehouse Branches**, *Bachelor's thesis*, 2015 <!--[[pdf](link)]-->
+0. **A Distributed System for Managing Warehouse Branches**, *B.Sc. thesis*, 2015 <!--[[pdf](link)]-->
 {: reversed="reversed"}
 
 
@@ -63,7 +63,7 @@ function toggle_visibility(id) {
 <li> Data Communication (<i style='font-size: 0.8em;'>Teacher Assistant</i>)</li>
 <li> Applied Cryptography (<i style='font-size: 0.8em;'>Teacher Assistant</i>)</li>
 <li> Security Protocols (<i style='font-size: 0.8em;'>Teacher Assistant</i>)</li>
-<li> Computer Security (<i style='font-size: 0.8em;'>Teacher Assistant</i>)</li>
+<li> Information Security (<i style='font-size: 0.8em;'>Teacher Assistant</i>)</li>
 <li> Database Security (<i style='font-size: 0.8em;'>Teacher Assistant</i>)</li>
 </ul>
 
