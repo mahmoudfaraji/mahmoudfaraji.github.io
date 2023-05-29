@@ -29,7 +29,7 @@ author_profile: true
 <ol reversed>
 
 <div id="1">
-<li> <b>A Method for Protecting Privacy of IoT-Based Healthcare Data</b>, <em>Master's Thesis</em>, March 2023 <!--[<a href="#">pdf</a>] [<a href="#">link</a>]-->
+<li> <b>A Method for Protecting Privacy of IoT-Based Healthcare Data</b>, <em>M.Sc. Thesis</em>, March 2023 <!--[<a href="#">pdf</a>] [<a href="#">link</a>]-->
 <br>Supervisor: Hamid Reza Shahriari, Opponent: Ehsan Nazerfard, Morteza Amini
 <div class='button' data-content="toggle-text"><a href="#1">abstract</a></div>
 <div class='abstract'>
@@ -47,7 +47,7 @@ The emergence of pandemic diseases like Covid-19 in recent years has made it mor
   
   
 <div id="3">
-<li> <b>Security and Privacy in Blockchain Smart Contracts</b>, <em>Master's Seminar</em>, Sep. 2021 <!--[<a href="#">pdf</a>] [<a href="#">link</a>]-->
+<li> <b>Security and Privacy in Blockchain Smart Contracts</b>, <em>M.Sc. Seminar</em>, Sep. 2021 <!--[<a href="#">pdf</a>] [<a href="#">link</a>]-->
 <br>Supervisor: Hamid Reza Shahriari, Opponent: Reza Safabakhsh
 <div class='button' data-content="toggle-text"><a href="#1">abstract</a></div>
 <div class='abstract'>
@@ -65,7 +65,7 @@ Designing a cryptographic algorithm can be one of the solutions in order to eval
   
   
 <div id="5">
-<li> <b>A Distributed System for Managing Warehouse Branches</b>, <em>Bachelor's thesis</em>, 2019 <!--[<a href="#">pdf</a>] [<a href="#">link</a>]-->
+<li> <b>A Distributed System for Managing Warehouse Branches</b>, <em>B.Sc. thesis</em>, 2019 <!--[<a href="#">pdf</a>] [<a href="#">link</a>]-->
 <div class='button' data-content="toggle-text"><a href="#1">abstract</a></div>
 <div class='abstract'>
 In this project, a distributed system for managing the input and output of items, and ultimately combining the inventory of products in separate warehouse branches in several places of the city, has been planned and implemented utilising the C# programming language and SQL Server database.
