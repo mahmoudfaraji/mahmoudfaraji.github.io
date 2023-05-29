@@ -50,7 +50,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification : googlecf896fb13fbee04c.html
+#google_site_verification : googlecf896fb13fbee04c.html
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Mahmoud Faraji"
   avatar           : "profile.png"
-  bio              : "Master Student in Information&nbsp;Security<br><a href='https://aut.ac.ir/en'><img src='/images/aut.png'></a>"
+  bio              : "M.Sc. Graduate in Information&nbsp;Security<br><a href='https://aut.ac.ir/en'><img src='/images/aut.png'></a>"
   location         : "#"
   #employer        : "chalmers"
   #pubmed          : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
