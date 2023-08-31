@@ -16,16 +16,15 @@ redirect_from:
 
 **Hello!** I'm Mahmoud<sup><a href="#fullname" onclick="toggle_visibility('fullname');">#</a></sup>, a M.Sc. graduate in [Information&nbsp;Security](https://ce.aut.ac.ir/) under the supervision of [Hamid Reza&nbsp;Shahriari](https://aut.ac.ir/shahriari/) at [Tehran&nbsp;Polytechnic (AUT)](https://aut.ac.ir/en) for 2 years (M.Sc. in Information Security). Since then, I have been pursuing my passion for:
 <ul class='twocol' style="margin-top: -1%;" markdown='1'>
-<li> Cyber Security</li>
-<li> Security Analysis</li>
-<li> Software Security</li>
-<li> Programming Languages</li>
-<li> Data Privacy</li>
-<li> Privacy Preserving Machine Learning</li>
+<li> Data Privacy </li>
+<li> Trustworthy Machine Learning </li>
+<li> Privacy Preserving Machine Learning </li>
+<li> Cyber Security </li>
+<li> Programming Languages </li>
 </ul>
 
 <p id="fullname" style="display: none;"><sup>#
-my full name is <i>Mahmoud Faraji</i> (in Persian: <span class='farsi'>محمود فرجی</span>), and here is my voice pronouncing my name:  
+My full name is <i>Mahmoud Faraji</i> (in Persian: <span class='farsi'>محمود فرجی</span>), and here is my voice pronouncing my name:  
 <span><audio id="player" src="files/my-name.m4a"></audio>
 <img src="/images/speaker.png" style="width:20px; cursor:pointer;" onclick="document.getElementById('player').play()"></span></sup></p>
 
